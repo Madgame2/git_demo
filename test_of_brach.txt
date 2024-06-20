@@ -1,1 +1,2 @@
-Print(hello wolrd)
+Print("hello wolrd")
+Print("from Python")
